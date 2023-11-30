@@ -6,10 +6,9 @@ function TopBar() {
     <div className="topbar">
       <div className="topbar-left">
         <i className="topbar-icon fa fa-shield" aria-hidden="true"></i>
-        Nombre del proyecto
+        Tablero
       </div>
       <div className="topbar-right">
-        <i className="topbar-icon fa fa-search" aria-hidden="true"></i> Buscar
         <i className="topbar-icon fa fa-user-circle" aria-hidden="true"></i>
       </div>
     </div>
