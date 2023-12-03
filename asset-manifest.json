@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tablero-sprint7/static/css/main.145deac7.css",
-    "main.js": "/tablero-sprint7/static/js/main.9cdba31f.js",
-    "static/js/787.db41ed80.chunk.js": "/tablero-sprint7/static/js/787.db41ed80.chunk.js",
-    "index.html": "/tablero-sprint7/index.html",
-    "main.145deac7.css.map": "/tablero-sprint7/static/css/main.145deac7.css.map",
-    "main.9cdba31f.js.map": "/tablero-sprint7/static/js/main.9cdba31f.js.map",
-    "787.db41ed80.chunk.js.map": "/tablero-sprint7/static/js/787.db41ed80.chunk.js.map"
+    "main.css": "/final-proyecto-VII/static/css/main.fd9d6bc8.css",
+    "main.js": "/final-proyecto-VII/static/js/main.114e4eaf.js",
+    "static/js/787.db41ed80.chunk.js": "/final-proyecto-VII/static/js/787.db41ed80.chunk.js",
+    "index.html": "/final-proyecto-VII/index.html",
+    "main.fd9d6bc8.css.map": "/final-proyecto-VII/static/css/main.fd9d6bc8.css.map",
+    "main.114e4eaf.js.map": "/final-proyecto-VII/static/js/main.114e4eaf.js.map",
+    "787.db41ed80.chunk.js.map": "/final-proyecto-VII/static/js/787.db41ed80.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.145deac7.css",
-    "static/js/main.9cdba31f.js"
+    "static/css/main.fd9d6bc8.css",
+    "static/js/main.114e4eaf.js"
   ]
 }
